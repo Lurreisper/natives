@@ -17,10 +17,10 @@ Ids
 4 - Legs
 5 - Hands
 6 - Foot
-7 - ------
-8 - Accessories 1
-9 - Accessories 2
-10- Decals
+7 - Accessories
+8 - Undershirts
+9 - Body Armors
+10 - Decals
 11 - Auxiliary parts for torso
 ```
 
